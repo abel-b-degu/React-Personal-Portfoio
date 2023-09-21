@@ -1,7 +1,7 @@
 export default function HeroSection(){
     return(
-        <section id="heroSection" className="hero--Section">
-            <div className="hero--Section--content-box">
+        <section id="herosection" className="hero--section">
+            <div className="hero--Section--content--box">
                 <div className="hero--section--content">
                     <p className="section--title">Hey, I'm John</p>
                     <h1 className="hero--section--title">
@@ -20,7 +20,7 @@ export default function HeroSection(){
                 </div>
             <button className="btn btn-primary">Get in touch</button>
             </div>
-            <div className="hero--sectio--img">
+            <div className="hero--section--img">
                 <img src="./img/hero_img.png" alt="Hero Section" />
             </div>
         </section>
