@@ -38,7 +38,7 @@ export default function MyPortfolio(){
                     <div className="portfolio--section--card--content">
                         <div>
                             <h3 className="portfolio--section--title">
-                                {item.tittle}
+                                {item.title}
                             </h3>
                             <p className="text-md">{item.description}</p>
                         </div>
