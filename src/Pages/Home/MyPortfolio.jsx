@@ -7,7 +7,7 @@ export default function MyPortfolio(){
                 <p className="sub--title">
                     Recent Project
                 </p>
-                <h2 className="section--heaing">My Protfolio</h2>
+                <h2 className="section--heading">My Protfolio</h2>
             </div>
             <div>
             <button className="btn btn-github">
